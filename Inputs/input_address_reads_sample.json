@@ -1,0 +1,34 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": null,
+	"service_label": "ADDRESS",
+	"api_type": "reads",
+	"Address": {
+		"AddressID": null,
+		"ValidityEndDate": "",
+		"ValidityStartDate": "",
+		"PostalCode": "",
+		"LocalRegion": "",
+		"Country": "",
+		"GlobalRegion": "",
+		"TimeZone": "",
+		"District": "",
+		"StreetName": "",
+		"CityName": "",
+		"Building": "",
+		"Floor": null,
+		"Room": null,
+		"CreationDate": "",
+		"LastChangeDate": "",
+		"IsMarkedForDeletion": null
+	},
+	"api_schema": "DPFMAddressReads",
+	"accepter": [
+		"Address"
+	]
+}
